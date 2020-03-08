@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at platform.v(1562): always construct contains both blocking and non-blocking assignments File: //SRVB/Homes$/thoma540/Desktop/Block_jump/platform.v Line: 1562
